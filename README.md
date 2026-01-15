@@ -31,7 +31,8 @@
 | [Introduction to Cheminformatics and AI in Drug Discovery](https://srijitseal.com/AIDDCourse/) | Srijit Seal | Machine learning (ML) and artificial intelligence (AI) models are becoming increasingly popular in drug discovery. This course aims to explain how to construct and use ML models for a non-expert audience with a background in life science or safety sciences. | [Access](https://srijitseal.com/AIDDCourse/) |
 | [Structural biology series](https://www.youtube.com/watch?v=k6tqCeDIwEk&list=PLtRqt5kjouQAQHdL7O4dQFjR9ozUw8OKg) | Bioinformatics With BB | Tutorial for Molecular Docking, Protein Functions and Molecular Dynamics. | [Access](https://www.youtube.com/watch?v=k6tqCeDIwEk&list=PLtRqt5kjouQAQHdL7O4dQFjR9ozUw8OKg/) |
 | [TeachOpenCADD](https://projects.volkamerlab.org/teachopencadd/index.html) | Volkamer Lab | A teaching platform for computer-aided drug design. | [Access](https://projects.volkamerlab.org/teachopencadd/index.html) |
-| [Machine Learning From Scratch](https://github.com/eriklindernoren/ML-From-Scratch) | Erik Linder-Norén | Machine Learning From Scratch. | [Access](https://github.com/eriklindernoren/ML-From-Scratch) |
+| [NGS101](https://ngs101.com/tutorials/) | Dr. Lei Guo | NGS Learning Hub | [Access](https://ngs101.com/tutorials/) |
+
 
 
 ---
@@ -78,4 +79,5 @@
   <i>Chào mừng bạn tới với Tin Sinh học! 🧬✨</i>
 
 </div>
+
 
